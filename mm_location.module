@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the mm_location feature.
+ */
+
+include_once('mm_location.features.inc');
